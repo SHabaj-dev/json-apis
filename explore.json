@@ -1,6 +1,6 @@
 [
   {
-    "imageUrl": "https://www.flaticon.com/free-icons/gift-box",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/128/1139/1139982.png",
     "title": "Offers",
     "type": "& More"
   },
@@ -10,13 +10,13 @@
     "type": "Gold Exclusive"
   },
   {
-    "imageUrl": "https://www.flaticon.com/free-icons/apple",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/128/415/415733.png",
     "title": "Healthy",
     "type": "Currated Diet"
   },
   {
-    "imageUrl": "https://www.flaticon.com/free-icons/apple",
-    "title": "Healthy",
-    "type": "Currated Diet"
+    "imageUrl": "https://cdn-icons-png.flaticon.com/128/4770/4770720.png",
+    "title": "Cakes",
+    "type": "Cakes"
   }
 ]
