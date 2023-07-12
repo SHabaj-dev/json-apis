@@ -1,0 +1,122 @@
+ [
+    {
+      "imageUrl": "https://lh3.googleusercontent.com/-iYC5NnLWHy0xLBIGTfPzKQJgbfNo3-yzs_lqY2EpaV_WABGQvoItaXrF8C97UmundnfxMwmqIk6TnWlciiMdjNhaUO4hwH1AU6b=w1280-h1280-c-rw-v1-e365",
+      "foodItemName": "Pasta Alfredo",
+      "cookingType": "Italian",
+      "deliveryTime": "30 minutes"
+    },
+    {
+      "imageUrl": "https://ichisushi.com/wp-content/uploads/2022/05/Best-Dynamite-Sushi-Roll-Recipes.jpg",
+      "foodItemName": "Sushi Roll",
+      "cookingType": "Japanese",
+      "deliveryTime": "45 minutes"
+    },
+    {
+      "imageUrl": "https://funwithoutfodmaps.com/wp-content/uploads/2022/07/Low-FODMAP-Beef-Tacos-Hero.jpg",
+      "foodItemName": "Tacos",
+      "cookingType": "Mexican",
+      "deliveryTime": "25 minutes"
+    },
+    {
+      "imageUrl": "https://www.thecookierookie.com/wp-content/uploads/2023/04/stovetop-burgers-recipe-2.jpg",
+      "foodItemName": "Burger",
+      "cookingType": "American",
+      "deliveryTime": "20 minutes"
+    },
+    {
+      "imageUrl": "https://www.thespruceeats.com/thmb/HqD0XJdtPuXR7TlWWJky3bMwG_0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/vegetarian-pad-thai-3217746-hero-01-5d1b70b6e9dd4d76a943a282b4843328.jpg",
+      "foodItemName": "Pad Thai",
+      "cookingType": "Thai",
+      "deliveryTime": "35 minutes"
+    },
+    {
+      "imageUrl": "https://images.ctfassets.net/nw5k25xfqsik/64VwvKFqxMWQORE10Tn8pY/200c0538099dc4d1cf62fd07ce59c2af/20220211142754-margherita-9920.jpg?w=1024",
+      "foodItemName": "Pizza Margherita",
+      "cookingType": "Italian",
+      "deliveryTime": "40 minutes"
+    },
+    {
+      "imageUrl": "https://usakor.com/yechon/wp-content/uploads/sites/74/2020/06/cate12_food02.jpg",
+      "foodItemName": "Sushi Sashimi Combo",
+      "cookingType": "Japanese",
+      "deliveryTime": "50 minutes"
+    },
+    {
+      "imageUrl": "https://www.eatingbirdfood.com/wp-content/uploads/2020/01/healthy-chicken-enchiladas-2-768x1152.jpg",
+      "foodItemName": "Enchiladas",
+      "cookingType": "Mexican",
+      "deliveryTime": "30 minutes"
+    },
+    {
+      "imageUrl": "https://www.cookingclassy.com/wp-content/uploads/2022/07/grilled-steak-15-1024x1536.jpg",
+      "foodItemName": "Steak",
+      "cookingType": "American",
+      "deliveryTime": "35 minutes"
+    },
+    {
+      "imageUrl": "https://www.licious.in/blog/wp-content/uploads/2020/12/Thai-green-prawn-curry.jpg",
+      "foodItemName": "Green Curry",
+      "cookingType": "Thai",
+      "deliveryTime": "40 minutes"
+    },
+    {
+      "imageUrl": "https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe.jpg",
+      "foodItemName": "Lasagna",
+      "cookingType": "Italian",
+      "deliveryTime": "30 minutes"
+    },
+    {
+      "imageUrl": "https://delizzious.com/wp-content/uploads/2021/03/vegetable-tempura-3-1-1170x1755.jpg",
+      "foodItemName": "Tempura",
+      "cookingType": "Japanese",
+      "deliveryTime": "45 minutes"
+    },
+    {
+      "imageUrl": "https://midwestfoodieblog.com/wp-content/uploads/2022/04/FINAL-cheese-quesadilla-1-3.jpg",
+      "foodItemName": "Quesadillas",
+      "cookingType": "Mexican",
+      "deliveryTime": "25 minutes"
+    },
+    {
+      "imageUrl": "https://www.fromvalerieskitchen.com/wordpress/wp-content/uploads/2023/04/oven-baked-baby-back-ribs-17.jpg",
+      "foodItemName": "BBQ Ribs",
+      "cookingType": "American",
+      "deliveryTime": "35 minutes"
+    },
+    {
+      "imageUrl": "https://www.recipetineats.com/wp-content/uploads/2019/09/Tom-Yum-soup_2.jpg",
+      "foodItemName": "Tom Yum Soup",
+      "cookingType": "Thai",
+      "deliveryTime": "30 minutes"
+    },
+    {
+      "imageUrl": "https://www.insidetherustickitchen.com/wp-content/uploads/2021/08/Pistachio-Ice-Cream-1200px-Inside-the-Rustic-Kitchen-3.jpg",
+      "foodItemName": "Gelato",
+      "cookingType": "Italian",
+      "deliveryTime": "20 minutes"
+    },
+    {
+      "imageUrl": "https://s23209.pcdn.co/wp-content/uploads/2014/10/220602_DD_Homemade-Ramen_572-1024x1536.jpg",
+      "foodItemName": "Ramen",
+      "cookingType": "Japanese",
+      "deliveryTime": "45 minutes"
+    },
+    {
+      "imageUrl": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Spicy_Chicken_Nachos_Recipe_With_Salsa_And_Sour_Cream-1.jpg",
+      "foodItemName": "Nachos",
+      "cookingType": "Mexican",
+      "deliveryTime": "25 minutes"
+    },
+    {
+      "imageUrl": "https://christieathome.com/wp-content/uploads/2020/10/Facetune_06-10-2020-15-37-58-scaled.jpg",
+      "foodItemName": "Fried Chicken",
+      "cookingType": "American",
+      "deliveryTime": "30 minutes"
+    },
+    {
+      "imageUrl": "https://assets.epicurious.com/photos/62d6c5130fc696fea8e55a9c/1:1/w_1920,c_limit/MangoStickyRice_RECIPE_04142022_9683_final.jpg",
+      "foodItemName": "Mango Sticky Rice",
+      "cookingType": "Thai",
+      "deliveryTime": "35 minutes"
+    }
+  ]
