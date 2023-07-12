@@ -1,0 +1,27 @@
+[
+  {
+    "imageUrl": "https://i.pinimg.com/474x/67/e7/ff/67e7ff9859d6c9df0c30b897bf901e1d.jpg",
+    "itemName": "Biryani",
+    "restaurantName": "Chicken Point",
+    "totalOffPercentage": 20,
+    "price": 149.00,
+    "timeToDeliver": "0:30 min" 
+  },
+  {
+    "imageUrl": "https://img.freepik.com/premium-photo/arrangement-with-chicken-food-white-background_807701-4730.jpg?w=2000",
+    "itemName": "Fried Chicken 500 gm",
+    "restaurantName": "Chicken Point",
+    "totalOffPercentage": 15,
+    "price": 200.00,
+    "timeToDeliver": "00:45 min"
+  },
+  {
+    "imageUrl": "https://www.awesomecuisine.com/wp-content/uploads/2008/02/mutter_paneer.jpg",
+    "itemName": "Mattar Paneer",
+    "restaurantName": "Restaurant C",
+    "totalOffPercentage": 10,
+    "price": 90.00,
+    "timeToDeliver": "00:20 min"
+  }
+]
+
