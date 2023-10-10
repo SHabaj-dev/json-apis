@@ -124,5 +124,11 @@
       "foodItemName": "Sushi Roll",
       "cookingType": "Japanese",
       "deliveryTime": "45 minutes"
+    },
+    {
+     "imageUrl": "https://assets.epicurious.com/photos/62d6c5130fc696fea8e55a9c/1:1/w_1920,c_limit/MangoStickyRice_RECIPE_04142022_9683_final.jpg",
+      "foodItemName": "Mango Sticky Rice",
+      "cookingType": "Thai",
+      "deliveryTime": "35 minutes"
     }
   ]
